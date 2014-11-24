@@ -1,4 +1,4 @@
 logging
 =======
 
-a log 
+a very simple log library wrapper for golang 
